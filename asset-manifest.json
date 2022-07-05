@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ab579184.css",
+    "main.js": "/static/js/main.269324be.js",
+    "static/media/Fredoka.ttf": "/static/media/Fredoka.2160dac36f46f7adc727.ttf",
+    "static/media/Syncopate-Regular.ttf": "/static/media/Syncopate-Regular.be83f868855d77b60447.ttf",
+    "static/media/Audiowide-Regular.ttf": "/static/media/Audiowide-Regular.2017bdb174a62d0daa3e.ttf",
+    "static/media/Righteous-Regular.ttf": "/static/media/Righteous-Regular.fd0110471f2228c1808a.ttf",
+    "index.html": "/index.html",
+    "main.ab579184.css.map": "/static/css/main.ab579184.css.map",
+    "main.269324be.js.map": "/static/js/main.269324be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab579184.css",
+    "static/js/main.269324be.js"
+  ]
+}
