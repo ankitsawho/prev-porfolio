@@ -1,70 +1,31 @@
-# Getting Started with Create React App
+<hr>
+<h1 align="center">Hi, I'm Ankit Sahu</h1>
+<p align="center">
+  <em>
+    I am pursuing B.Tech. degree in CSE from <a href="https://chennai.vit.ac.in"> <b>Vellore Institute of Technology, Chennai</b></a>.<br>
+    I love to learn about new technologies. <br>
+  </em> 
+</p>
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<hr>
 
-## Available Scripts
+### 🤵 About Me:
+- 🔭 I’m currently working on ml, dl projects (now-a-days, mostly nlp stuff)
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🌱 I’m currently learning about blockchain, web3.0
+- 📝 I sometimes write articles on 
+      [<img align="center" alt="dev" height="30px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />](https://dev.to/ankitsahu)
+<!-- - ⚡ Fun fact: I can't stop distro hopping -->
 
-In the project directory, you can run:
+<hr>
 
-### `yarn start`
+### 💬 Reach me
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[<img align="left" alt="Website" height="25px" src="https://cdn-icons-png.flaticon.com/512/3988/3988027.png" />](https://ankitsahu.me/)
+[<img align="left" alt="Github" height="25px" src="https://cdn-icons-png.flaticon.com/512/889/889192.png" />](https://github.com/ankitsawho)
+[<img align="left" alt="LinkedIn" height="25px" src="https://cdn-icons-png.flaticon.com/512/1383/1383262.png"/>](https://www.linkedin.com/in/ankit-kumar-sahu-8817681a4/)
+[<img align="left" alt="Twitter" height="25px" src="https://cdn-icons-png.flaticon.com/512/725/725311.png" />](https://twitter.com/ankitsawho)
+[<img align="left" alt="Instagram" height="25px" src="https://cdn-icons-png.flaticon.com/512/408/408707.png" />](https://instagram.com/ankitsawho/)
+<br>
+<hr>
